@@ -8,7 +8,7 @@ KMeans clustering algorithm that extracts color palette out of an image.
 2. Scikit-learn
 3. Matplotlib
 
-# Useage
+# Usage
 
 python kpalette.py <FULL_PATH_TO_IMAGE>
 
